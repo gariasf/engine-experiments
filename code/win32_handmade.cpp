@@ -7,5 +7,5 @@ int CALLBACK WinMain(
     int cmdshow
 )
 {
-    return(0);
+    return (0);
 }
